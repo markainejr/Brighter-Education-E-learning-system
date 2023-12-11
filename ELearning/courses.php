@@ -20,7 +20,7 @@
   include('./contact.php'); 
 ?> 
 
-<?php 
+<?php
   // Footer Include from mainInclude 
   include('./mainInclude/footer.php'); 
 ?>  
