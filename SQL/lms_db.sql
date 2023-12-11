@@ -85,7 +85,7 @@ CREATE TABLE contact_us (
     feedback TEXT
 );
 -- INSERT INTO contact_us (contact_content_id, contact_id, name, subjects, e_mail, feedback)
--- VALUES (1, 'John Doe', 2'General Inquiry', 3'johngmail.com', 4'how am i going to enroll.');
+-- VALUES (1, 'John peter', 2'General Inquiry', 3'johngmail.com', 4'how am i going to enroll.');
 
 
 --
